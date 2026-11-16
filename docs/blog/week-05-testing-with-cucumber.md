@@ -122,4 +122,4 @@ Writing the scenarios forced us to be exact. Sentences that sounded fine in the 
 
 ## Reflection on AI use
 
-We used Cursor AI to help draft some step definitions and to keep the feature files consistent with the use case text. The scenarios themselves, and the decision to test an in-memory model first, were ours. We always ran the tests ourselves and changed anything that did not match how we want StudyHub to behave.
+We used Cursor AI to help draft some step definitions and to keep the feature files consistent with the use case text. The scenarios themselves, and the decision to test an in-memory model first, were ours. We always ran the tests ourselves and fixed anything that didn't fit how StudyHub should work.  
