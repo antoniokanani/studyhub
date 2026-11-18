@@ -1,4 +1,4 @@
-Feature: Schedule meeting
+Feature: " Schedule meeting "
   As a group member
   I want to schedule a meeting at a time that works for everyone
   So that the whole group can meet without comparing timetables by hand
